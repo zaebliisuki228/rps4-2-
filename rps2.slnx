@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MathMethodTests/MathMethodTests.csproj" />
+  <Project Path="rps2/rps2.csproj" />
+</Solution>
